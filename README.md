@@ -47,16 +47,12 @@ At the conclusion of this course students will be able to:
   publisher={Wiley Hoboken}
 }
 
-
 @book{lafore2022data,
   title={Data Structures and Algorithms in Python},
   author={Lafore, Robert and Broder, Alan and Canning, John},
   year={2022},
   publisher={Pearson Education, Limited}
 }
-
-
-
 ```
 	
  
